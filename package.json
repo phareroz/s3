@@ -1,0 +1,26 @@
+{
+  "name": "@phareroz/s3",
+  "version": "1.0.0",
+  "description": "s3 client",
+  "main": "s3.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "latest",
+    "aws-sdk-v3-proxy": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://phareroz@github.com/phareroz/s3.git"
+  },
+  "keywords": [
+    "s3"
+  ],
+  "author": "phare.roz@orange.fr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phareroz/s3/issues"
+  },
+  "homepage": "https://github.com/phareroz/s3#readme"
+}
